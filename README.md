@@ -11,8 +11,8 @@
 
 - 💬 Ask me about **Javascript,React and frontend Stuffs.**
 
-- 📫 How to reach me [Twitter](https://twitter.com/home) |
-[Instagram](https://www.instagram.com/) |
+- 📫 How to reach me [Twitter](https://twitter.com/ebraj_g) |
+[Instagram](https://www.instagram.com/_anizh_g/) |
 [LinkedIn](https://www.linkedin.com/in/ebrajgrg/)
 
 - ⚡ Fun fact **Everything about me is no less than the fun fact.**
