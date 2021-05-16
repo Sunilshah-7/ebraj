@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Youtube.
 - 💬 Ask me about Javascript and React Stuffs.
 - 📫 How to reach me:
-        Twitter -  [@ebraj_g](https://twitter.com/ebraj_g)
+-       Twitter -  [@ebraj_g](https://twitter.com/ebraj_g)
         Instagram - [@_anizh_g](https://www.instagram.com/_anizh_g/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Everything about me is no less than the fun fact.
