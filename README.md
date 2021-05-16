@@ -1,14 +1,25 @@
-### Hi there from Ebraj | Author of CoDesignBlog 👋
+<h1 align="center">Hi 👋, I'm Ebraj Gurung | Author of TheCodesignBlog</h1>
+<h3 align="center">I am a frontend developer who loves to design as well as develop the sites that are unique in design and probabily have the greatest UX.</h3>
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ebraj&label=Profile%20views&color=0e75b6&style=flat" alt="ebraj" /> </p>
 
-- 🔭 I’m currently working on Frontend Development.
-- 🌱 I’m currently learning React JS.
-- 👯 I’m looking to collaborate on Youtube.
-- 💬 Ask me about Javascript and React Stuffs.
-- 📫 How to reach me: Twitter - [@ebraj_g](https://twitter.com/ebraj_g)
-Instagram - [@anizh_g](https://www.instagram.com/_anizh_g/)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: Everything about me is no less than the fun fact.
+- 🔭 I’m currently working on **Frontend Development.**
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ebraj&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+- 🌱 I’m currently learning **React JS.**
+
+- 📝 I regularly write articles on [thecodesignblog.com](thecodesignblog.com)
+
+- 💬 Ask me about **Javascript,React and frontend Stuffs.**
+
+- 📫 How to reach me [Twitter](https://twitter.com/home) |
+[Instagram](https://www.instagram.com/) |
+[LinkedIn](https://www.linkedin.com/in/ebrajgrg/)
+
+- ⚡ Fun fact **Everything about me is no less than the fun fact.**
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ebraj&show_icons=true&locale=en&layout=compact" alt="ebraj" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ebraj&show_icons=true&locale=en" alt="ebraj" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ebraj&" alt="ebraj" /></p>
