@@ -1,4 +1,4 @@
-### Hi there from Ebraj,Author of CoDesignBlog 👋
+### Hi there from Ebraj | Author of CoDesignBlog 👋
 
 Here are some ideas to get you started:
 
