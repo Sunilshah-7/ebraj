@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React JS.**
 
-- 📝 I regularly write articles on [thecodesignblog.com](thecodesignblog.com)
+- 📝 I regularly write articles on [thecodesignblog.com](https://www.thecodesignblog.com/)
 
 - 💬 Ask me about **Javascript,React and frontend Stuffs.**
 
