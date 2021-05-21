@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ebraj Gurung | Author of TheCodesignBlog</h1>
+<h1 align="center">Hi 👋, I'm Ebraj Gurung
 <h3>I am a frontend developer who loves to design as well as develop the sites that are unique in design and probabily have the greatest UX.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebraj&label=Profile%20views&color=0e75b6&style=flat" alt="ebraj" /> </p>
