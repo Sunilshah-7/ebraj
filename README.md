@@ -16,5 +16,5 @@
 
 - ⚡ Fun fact **Everything about me is no less than the fun fact.**
 
-![Ebraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebraj&show_icons=true&theme=omni)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ebraj&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
